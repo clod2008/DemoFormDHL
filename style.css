@@ -1,0 +1,34 @@
+body{
+    background-color: lightgray;
+    overflow-x: hidden;
+}
+
+
+
+header {
+
+    /* background-image: url('./img/banner-dhl-collection3.jpg');
+    background-size: initial;
+    background-repeat: no-repeat;
+    background-position-x:center; */
+    /* height: 20vh; */
+    background-color:#ffd539;
+    -moz-box-shadow: 2px 1px 9px #000000;
+    -webkit-box-shadow: 2px 1px 9px #000000;
+    box-shadow: 2px 1px 9px #000000; 
+}
+
+footer {
+
+    height: 10vh;
+    background-color:#ffd539;
+    -moz-box-shadow:    5px 0px 9px #000000;
+    -webkit-box-shadow: 5px 0px 9px #000000;
+    box-shadow:         5px 0px 9px #000000;
+}
+
+
+
+#formCont {
+    min-height: 70vh;
+}
